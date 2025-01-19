@@ -40,5 +40,14 @@ The project successfully demonstrated the application of Arduino-based control a
 **Demonstration Video**:
 
 https://github.com/user-attachments/assets/059b6471-e740-400f-b67c-68c722887d49
+
+
+
+
+
+
+
+
+
 https://github.com/user-attachments/assets/500a2128-f84e-48f7-a288-48b6c6d873d5
 
