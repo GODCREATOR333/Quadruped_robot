@@ -34,6 +34,8 @@ The project successfully demonstrated the application of Arduino-based control a
 - Inverse Kinematics for Robotics Textbooks
 - [Bluetooth Module HC-05 Data Sheets](https://www.electronicwings.com/nodemcu/hc-05-bluetooth-module)
 
+## Co-Contributor
+This project was developed together with [B.Sai Ganesh](https://github.com/Necr0m4nc3r). We collaborated on all aspects of the project, including the design, implementation, and testing, to create the quadruped robot.
 
 
 
