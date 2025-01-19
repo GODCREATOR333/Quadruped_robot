@@ -1,5 +1,7 @@
 # Quadruped Spider Robot
 
+## This project was done from 12/04/2023 - 25/04/23 for demonstration purpose to be showcased for Science fest of jntuh-ucesth.
+
 ## Project Overview
 This project involves the design and implementation of a quadruped spider robot controlled by a mobile phone using Bluetooth technology. The robot uses an Arduino Uno microcontroller, servo motors, and inverse kinematics to achieve stable locomotion through gait generation.
 
