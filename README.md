@@ -1,5 +1,26 @@
 # Quadruped Spider Robot
 
+
+**Demonstration Video**:
+
+https://github.com/user-attachments/assets/059b6471-e740-400f-b67c-68c722887d49
+
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/500a2128-f84e-48f7-a288-48b6c6d873d5
+
+
+
+
+
+
+
 This project was done from 12/04/2023 - 25/04/23 for demonstration purpose to be showcased for Science fest of jntuh-ucesth.
 
 ## Project Overview
@@ -40,18 +61,4 @@ The project successfully demonstrated the application of Arduino-based control a
 This project was developed together with [B.Sai Ganesh](https://github.com/Necr0m4nc3r). We collaborated on all aspects of the project, including the design, implementation, and testing, to create the quadruped robot.
 
 
-
-**Demonstration Video**:
-
-https://github.com/user-attachments/assets/059b6471-e740-400f-b67c-68c722887d49
-
-
-
-
-
-
-
-
-
-https://github.com/user-attachments/assets/500a2128-f84e-48f7-a288-48b6c6d873d5
 
